@@ -1,5 +1,5 @@
-day 2
-Introduction to Linux
+#day 2
+#2 Introduction to Linux
 What is Linux
 ● Linux is a kernel.
 ● Kernel is a
@@ -68,8 +68,8 @@ Types of desktop environment on linux
 # gnome
 - Have beautiful animations, while opening,closing files
 Types of desktop environment on linux
-# KDE plasma
-# XFCE
+KDE plasma
+XFCE
 Which Desktop environment is best?
 >> Speed depends on:
 ● Animations
