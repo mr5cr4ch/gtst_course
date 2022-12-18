@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm mr5cr4ch</h1>
 <h3 align="center">I am developer from Ethiopia</h3>
-<img align="">
+<img align="right" alt="coding" width="400" src="https://cloudinary.com/blog/wp-content/uploads/sites/12/2022/02/Mario_1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr5cr4ch&label=Profile%20views&color=0e75b6&style=flat" alt="mr5cr4ch" /> </p>
 
 - 🌱 I’m currently learning **metasploit,nmap,tryhackme...**
