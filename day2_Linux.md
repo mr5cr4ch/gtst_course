@@ -1,23 +1,23 @@
-#day 2
+# day 2
 #2 Introduction to Linux
-What is Linux
-● Linux is a kernel.
-● Kernel is a
+*What is Linux
+* Linux is a kernel.
+* Kernel is a
 code/program that used
 to meet your Software
 and Hardware. And
 allocate some
 resources.
 History of Linux
-● In 1969 a team led by computer scientists KenThompson and Dennis Ritchie created the firstversion of UNIX on a PDP-7 minicomputer,which was chosenmainl because of
+* In 1969 a team led by computer scientists KenThompson and Dennis Ritchie created the firstversion of UNIX on a PDP-7 minicomputer,which was chosenmainl because of
 Thompson's familiarity with the system from his
 hobby work on it
-● BUT IT WASN’T CHEAP AND OPEN-SOURCE
-● Then Person called “LINUS TORVALDS”
+* BUT IT WASN’T CHEAP AND OPEN-SOURCE
+* Then Person called “LINUS TORVALDS”
 Created the Linux kernel. And posted it online
 to make it open-source.
 Cont…
-● Richard Stallman announced the GNU Linux
+* Richard Stallman announced the GNU Linux
 project in 1983 and cofounded the Free
 Software Foundation in 1985.
 ● GNU is a free software replacement to the UNIX
@@ -64,8 +64,8 @@ Kernel
 Software
 Desktop Environment 
 Types of desktop environment on linux
-# mate
-# gnome
+- mate
+- gnome
 - Have beautiful animations, while opening,closing files
 Types of desktop environment on linux
 KDE plasma
