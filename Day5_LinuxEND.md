@@ -1,32 +1,46 @@
-Advanced Linux
-User!
-Day5_LinuxEND.md
-Last time
- Topics
-On today's class
-● Further on User management
-● Linux File Ownership + Permissions
-● Software Installation
-● Script Installation
-● Package Installation Common errors
-Some advanced user commands
-● To change password of user
+# ⚔Advanced Linux User!
+
+# Topics
+ 
+## 💡 Further on User management
+
+## 💡 Linux File Ownership + Permissions
+
+## 💡 Software Installation
+
+## 💡 Script Installation
+
+### 🪄 To change password of user
+
 ○ sudo passwd username
-● To change user id
-○ sudo usermod -u new_id
-username
-● To Delete User
-○ sudo userdel -r username
-● To Change users on terminal
-○ su - username
-Sudoers file
-● The sudoers file is a file Linux and Unix administrators use to
-allocate system rights to system users
-● The user you created doesn’t have power to use sudo as the
-original one.
-● This is Because it is not Added in the sudoers file ( የSudoዎች file )
-● To access this file
-○ sudo visudo
+
+### 🪄 To change user id
+
+sudo passwd username
+
+### 🪄 username
+
+sudo usermod -u new_id
+
+### 🪄 To Delete User
+
+sudo userdel -r username
+
+### 🪄 To Change users on terminal
+
+su - username
+
+## 🛡 note
+
+### 💡 Sudoers file ?
+
+✒ The sudoers file is a file Linux and Unix administrators use to
+allocate system rights to system users.
+
+✒ The user you created doesn’t have power to use sudo as the original one.
+
+✒ This is Because it is not Added in the sudoers file.
+
 Cont…
 The 1st appearance when
 you open the sudoers file
@@ -161,11 +175,8 @@ program.
 ○ sudo dpkg -i <packagename>
 ○ sudo dpkg -r <packagename>
 ○ sudo dpkg -P <packagename>
-Let’s get our hand dirty
+### 🪛 my love Exresise
 1. Update your system repository
 2. Search for package called ‘cmatrix’
 3. Install ‘cmatrix’
 4. Remove ‘cmatrix’
-Class is over
-- DO the notes on github
-- Install some program and practice
