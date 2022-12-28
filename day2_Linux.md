@@ -1,28 +1,23 @@
-Introduction to
-Linux
-Day2_Linux.md
-What is Linux
-● Linux is a kernel.
-WHAT is kernel?
-● Kernel is a
+# day 2
+#2 Introduction to Linux
+*What is Linux
+* Linux is a kernel.
+* Kernel is a
 code/program that used
 to meet your Software
 and Hardware. And
 allocate some
 resources.
 History of Linux
-● In 1969 a team led by computer scientists Ken
-Thompson and Dennis Ritchie created the first
-version of UNIX on a PDP-7 minicomputer,
-which was chosen mainly because of
+* In 1969 a team led by computer scientists KenThompson and Dennis Ritchie created the firstversion of UNIX on a PDP-7 minicomputer,which was chosenmainl because of
 Thompson's familiarity with the system from his
 hobby work on it
-● BUT IT WASN’T CHEAP AND OPEN-SOURCE
-● Then Person called “LINUS TORVALDS”
+* BUT IT WASN’T CHEAP AND OPEN-SOURCE
+* Then Person called “LINUS TORVALDS”
 Created the Linux kernel. And posted it online
 to make it open-source.
 Cont…
-● Richard Stallman announced the GNU Linux
+* Richard Stallman announced the GNU Linux
 project in 1983 and cofounded the Free
 Software Foundation in 1985.
 ● GNU is a free software replacement to the UNIX
@@ -69,14 +64,12 @@ Kernel
 Software
 Desktop Environment 
 Types of desktop environment on linux
-A) mate
-Types of desktop environment on linux
-B) gnome
+- mate
+- gnome
 - Have beautiful animations, while opening,closing files
 Types of desktop environment on linux
-C) KDE plasma
-Types of desktop environment on linux
-D) XFCE
+KDE plasma
+XFCE
 Which Desktop environment is best?
 >> Speed depends on:
 ● Animations
@@ -194,15 +187,3 @@ Cont…
 You can simply install them from Microsoft Store
 So… How can we use it?
 G) Termux - Android
-For running some codes
-And doing simple things!
-Assignment for next session
-● Based on your computer Performance choose one
-method from the 6 methods (except termux) and
-setup it for next time.
-● Resource: there are many youtube videos check
-them.
-And just do this no need to do other thing
-
-Class is Over
-Question, Comment time
